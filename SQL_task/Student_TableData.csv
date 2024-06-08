@@ -1,0 +1,15 @@
+stu_id,stu_name,stu_age,stu_phoneno,stu_dob,stu_address,stu_class,stu_sec,stu_rollno
+1,Benjamin Walker,8,1234567,01-01-2016,"10 Elm St, Anytown, CA 12345",3,Sec A,1
+2,Charlotte Jones,7,7890123,10-01-2017,"22 Birch Lane, Springfield, IL 54321",2,Sec A,7
+3,Emily Brown,9,4567890,06-11-2015,"34 Maple St, Fairview, TX 78901",4,Sec A,2
+4,Sophia Khan,9,1083342,05-08-2015,"100 Maple St, Sunnyvale, CA 94089",4,Sec B,12
+5,William Miller,8,2864655,02-12-2015,"200 Oak Ave, Fairview, TX 78901",3,Sec B,18
+6,Abigail Garcia,7,9873210,05-10-2017,"300 Poplar St, Miami, FL 33133",1,Sec B,3
+7,Alice Smith,8,1234567,09-05-2017,"123 Main St, Anytown, CA 12345",3,Sec B,1
+8,Michael Jones,7,7890123,11-11-2018,"456 Elm St, Springfield, IL 54321",2,Sec B,4
+9,Emily Brown,9,4567890,01-12-2016,"789 Oak Ave, Fairview, TX 78901",4,Sec B,3
+10,David Miller,10,2345678,28-02-2014,"100 Maple St, Sunnyvale, CA 94089",3,Sec A,8
+11,Sarah Garcia,8,9012345,12-12-2016,"234 Birch Lane, Miami, FL 33133",2,Sec A,9
+12,Christopher Lee,7,6780123,30-12-2017,"567 Pine Blvd, Seattle, WA 98109",4,Sec B,2
+13,Olivia Williams,6,3456789,01-07-2018,"890 Cedar Rd, Denver, CO 80246",1,Sec A,7
+14,Daniel Johnson,9,123456,10-11-2015,"89 Cedar Rd, Austin, TX 78731",5,Sec B,1
